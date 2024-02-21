@@ -1,5 +1,7 @@
 # FrontEnd For PerfectNumberProject
 
+Node Version: 21.6.2
+
 To be able to run the project, we must install npm.
 
 Configure environment variables in the .env file:
